@@ -1,3 +1,7 @@
+## linux息屏
+setterm -blank 1 -powersave powerdown 空闲 1 分钟后 让屏幕熄灭并进入省电状态
+setterm -blank 0 -powersave off 恢复
+
 ## squaretest插件
  Squaretest 插件适用于 IntelliJ IDEA ，自动为您的 Java 类生成单元测试。
 
